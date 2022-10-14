@@ -1,0 +1,12 @@
+a=30
+b=4.5
+c=3+4j
+d="keshav"
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(id(a))
+print(id(b))
+print(id(c))
+print(id(d))
